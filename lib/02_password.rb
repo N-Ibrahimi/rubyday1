@@ -20,8 +20,11 @@ end
 
   def welcome_screen(access)
     if access == true
-      puts "===============================//================================"
-      print "Les extraterrestres existent, voici la preuve :"
+      puts "//===============================//================================//"
+      print "// Bienvenu dans la zone secrète //"
+      puts "//===============================//================================//"
+      print "Preuve ultime de l'existence de la vie extraterrestre"
+      print "//===============================//================================//"
     end
   end
 
