@@ -1,2 +1,5 @@
 # rubyday1
-Exercice ruby du jeudi 10 janvier
+
+Exercice Ruby du jeudi 10 janvier Created By par Thomas Le Vot et Nasim Ibrahimi.
+
+Bonne correction (:
