@@ -51,7 +51,6 @@ end
 
       nb_etage = (nb_etage + 1)/2
       nb_etage.times do |i|
-        #x = " "*(z-(i+1))+"#"*(i+1)+("#"* i)
         i += 1
       puts " " * (nb_etage-i) + "#" * (2*i-1) + " " * (nb_etage-i)
       end
